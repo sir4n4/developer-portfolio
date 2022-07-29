@@ -8,7 +8,7 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px ;
 }
@@ -27,12 +27,12 @@ section{
     border-radius: 5px;
     background-image: linear-gradient(orange, tomato);
 }
-#top-banner{
+.top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
 
-#dream-big{
+.dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
